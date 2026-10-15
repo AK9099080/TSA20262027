@@ -1,6 +1,6 @@
 ### How to make edits
 
-You have to make a branch for each feature.
+You have to make a pull request for each feature and the branch should automatically be created.
 Name branches based on the specific feature, bug, or task they are working on, using hyphens to separate words. It helps to include a short prefix.
 
 # Here are some great examples:
