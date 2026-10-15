@@ -1,4 +1,4 @@
-##How to make edits##
+### How to make edits
 
 You have to make a branch for each feature.
 Name branches based on the specific feature, bug, or task they are working on, using hyphens to separate words. It helps to include a short prefix.
@@ -7,7 +7,7 @@ Here are some great examples:
 • For fixing bugs: bugfix/fix-payment-crash or fix/header-typo
 • For chores/cleanup: chore/update-dependencies
 
-##Life Cycle of Branch's##
+### Life Cycle of Branch's
 Branches are meant to be short-lived. This is how the cycle works for the team:
 1. Create: John creates feat/add-login-button and writes the code.
 2. Review: John submits a Pull Request. It gets reviewed for compatability, gets approved, and then merges it into main(The Main Website).
